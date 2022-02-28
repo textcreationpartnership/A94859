@@ -1,0 +1,981 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal of the pretended judges, that signed the warrant, for the murther of King Charles the I. Of ever blessed memory, at the sessions-house in the Old-Baily October 10. 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94859</idno>
+            <idno type="STC">Wing T2230</idno>
+            <idno type="STC">Thomason E1046_4</idno>
+            <idno type="STC">ESTC R208032</idno>
+            <idno type="EEBO-CITATION">99867038</idno>
+            <idno type="PROQUEST">99867038</idno>
+            <idno type="VID">119328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1046[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal of the pretended judges, that signed the warrant, for the murther of King Charles the I. Of ever blessed memory, at the sessions-house in the Old-Baily October 10. 1660.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Regicides --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119328:1" rendition="simple:additions"/>
+            <p>THE TRYAL OF THE PRETENDED JUDGES, That ſigned the Warrant, for the Murther of KING CHARLES the I. Of Ever BLESSED MEMORY, At the Seſſions-Houſe in the <hi>Old-Baily October</hi> 10. 1660.</p>
+            <q>
+               <bibl>Numb. 35.31.</bibl>
+               <p>Moreover, ye ſhall take no ſatisfaction for the life of a Mur<g ref="char:EOLhyphen"/>derer, which is guilty of death, but he ſhall be ſurely put to death.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119328:2"/>
+            <pb n="1" facs="tcp:119328:2"/>
+            <head>The Tryall of the Iudges, that ſigned the Warrant for the murther of King <hi>CHARLES</hi> the firſt.</head>
+            <p>VVEdneſday <hi>October</hi> the 9th. 1660: being ap<g ref="char:EOLhyphen"/>pointed for the Tryall of them which ſigned the Warrant for the horrid murther of his late ſe<g ref="char:EOLhyphen"/>rene Majeſty, CHARLES the firſt, of ever bleſſed memory. In order whereunto, Warrants being ſigned, for the Lieuctenant of the <hi>Tower</hi>'s delivery of the priſoners unto the Sheriffs of <hi>London,</hi> the Sheriffs accordingly repaired to the <hi>Tower,</hi> with a ſtrong guard of their own Servants, and part of the Lieutenant of the <hi>Tower's</hi> own Regiment; where the pri<g ref="char:EOLhyphen"/>ſoners being put into ſeveral Coaches, with two of the Sheriffs own Servants in each Coach, and a party of Muſqueteers on each ſide of the Coach: the reſt of the ſaid Regiment making a Lane in <hi>Newgate-market,</hi> to keep them from the fury of the people; a Troup of the Army Horſe before, and another follow<g ref="char:EOLhyphen"/>ing after the Coaches: they were about eight or nine of the clock brought to the <hi>Preſſe-yard</hi> at <hi>Newgate,</hi> and after a ſur<g ref="char:EOLhyphen"/>vey of them taken by the Maſter-keeper, they were (by a paſ<g ref="char:EOLhyphen"/>ſage made for that purpoſe) carried into the Seſſions yard to <hi>Ju<g ref="char:EOLhyphen"/>stice-Hall</hi> in the <hi>Old-Baily;</hi> where the Court being ready to receive them, they were by turns brought to the Bar, by four and ſix at a time, where they had their Indictments publickly read to them ſeverally, to this effect.</p>
+            <div type="transcript_of_indictments">
+               <head>The Indictment read by the <hi>Cryer</hi> to the firſt three, and ſo in order to the reſt.</head>
+               <p>That whereas you <hi>Hardreſs VValler</hi> Knight, <hi>Thomas Har<g ref="char:EOLhyphen"/>rinſon, Henry Heveningham</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Iſaac Pennington, Henry Martin, Gilbert Millington, Robert Tichburn</hi> Eſqrs; <hi>Owen Row, Robert Lilburn, Adrian Scroop, Auguſtin Garland
+<pb n="2" facs="tcp:119328:3"/>Gregory Clement, Peter Temple, Iohn Iones, Iames Temple, Iohn Cooke, Iohn Carew, Thomas Scot, Iohn Downs, Henry Smith, Vincent Potter, Hugh Peters, Simon Meyne, George Fleet wood, Francis Hacker, Daniel Axtell, Edmund Harvy</hi> Eſqrs; Having not the fear of God before your eyes, and being inſtigated by the Devil did maliciouſly treaſonably and feloniouſly contrary to your due allegiance and bounden duty did ſet upon and condemne your late Soveraigne Lord <hi>Charles</hi> the firſt of ever bleſſed memory, and alſo did upon the thirty of <hi>Ianuary</hi> 1648 ſighe and ſeale a Warrant for the execution of his late Sacred, and Serene Majeſty of bleſſed <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y, where alſo the aforeſaid <hi>Hardreſs Waller,</hi> Knight<g ref="char:punc">▪</g> 
+                  <hi>Thomas Harriſon, Henry Heveningham</hi> 
+                  <abbr>Eſq</abbr> together with ſome other perſon unknown did appeare for the reſt upon the Scaffold, at the execution of his late Sacred, and Serene Majeſty of bleſ<g ref="char:EOLhyphen"/>ſed memory, which ſaid perſon yet unknown, being diſguiſed by a Frock over his body and a Vizor on his face, did then and their Sever the head of his moſt Sacred Majeſty of bleſſed memory from his body, and you the ſaid <hi>Hurdreſs Walter</hi> Knight, <hi>Thomas Harriſon,</hi> and the reſt of the Traytors did afterwards moſt traiterouſly and ſeloniouſly aſſume the Go<g ref="char:EOLhyphen"/>verment of the Kingdomes contrary to all right, and juſtice, and the known Laws of the Land, and againſt the perſon of our now Soveraigne Lord <hi>Charles</hi> the ſecond his right and Title, Crown and Dignity.</p>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>
+                     <hi>Hardreſſe Waller</hi> Kt. hold up thy hand, what ſayeſt thou, art thou guilty of this horrid act of Treaſon, whereof thou ſtandeſt indicted or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>H. W.</hi>
+                  </speaker>
+                  <p>My Lord, I cannot ſay I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Then you plead you are guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>H. W,</speaker>
+                  <p>Yes my Lord, I am guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Set him aſide.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Harriſon,</speaker>
+                  <p>Hold up thy hand, art thou guilty of this horrid act of Treaſon or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>If I ſhould ſay not guilty I ſhould wrong my own conſcience, yet in matter and form as it is laid in the Indictment I am not guilty,</p>
+               </sp>
+               <pb n="3" facs="tcp:119328:3"/>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Then you plead not guity?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>My Lord I deſire I may have counſel aſſigned me and time for to make my defence, for I have been kept a cloſe priſoner in a back chamber, and had no notice of my Tryal till five a clock this morning, ſo that I am altogether unprepared.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudge,</speaker>
+                  <p>You are to plead guilty or not guilty, for in caſes of Treaſon counſel is not to be aſsigned, for that would make it Iuſtifiable, and then it were not Treaſon, and you would be quit, but if it be Treaſon, then it is not juſtifiable.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>By the Lords lawes and the good and wholeſome laws of the land,</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Wilt thou be tryed by God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>That is a prophane word.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>Then you ſhall beturn'd over to God and the Coun<g ref="char:EOLhyphen"/>trey.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>No ſir, I will be try'd by God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk,</speaker>
+                  <p>God ſend thee a good deliverance.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Henry Heveningham</hi> hold up thy hand, what ſayeſt thou, guilty of this horrid act of treaſon, or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>H. H.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>H. H.</speaker>
+                  <p>I will preſent an humble Petition to his Majeſty and the Parliament, and deſire your Lordſhip to let me return to my lodging at the Tower again, for I have ſome infirmities upon me.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>We can give no anſwer to that.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>H. H.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>God ſend thee a good deliverance.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk,</speaker>
+                  <p>Set them by.</p>
+                  <p>Bring <hi>Iſaac Pennington,</hi> H. <hi>Martin, Gilbert Millington, Ro<g ref="char:EOLhyphen"/>bert Titchburn, Robert Lilburn</hi> to the Bar,</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Henry Martin,</hi> hold up thy hand, what ſayeſt thou? art thou guilty of this horrid act of Treaſon whereof thou ſtan<g ref="char:EOLhyphen"/>deſt indicted or not guilty?</p>
+               </sp>
+               <pb n="4" facs="tcp:119328:4"/>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <p>My Lord, I deſire the benefit of the act of Indem<g ref="char:EOLhyphen"/>pnity,</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>Firſt you are to plead, before you can have the bene<g ref="char:EOLhyphen"/>fit of any thing and for your pleading the act of Indempnity, that makes you guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <p>My Lord, If I plead, I loſe the benefit of that Act.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>Your name is in that Act.</p>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <p>My name is not there my Lord, my name is <hi>Harry Marte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> not <hi>Martin.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>There is no difference between <hi>Martin</hi> and <hi>Marten</hi> in law, the difference is very little in the ſound.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Art thou guilty or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>Sir, Be adviſed, this makes no difference, if there were two names of the like form, the difference is betwixt the Sir-names; this will make you but a Mute in Law, and to be a Mute in matter of Treaſon you muſt have judgement paſſed upon you.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Are you guilty, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Mart.</speaker>
+                  <p>I deſire Counſel my Lord in that which is matter of Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>What do you deſire Counſel for, you are indicted for matter of Treaſon, for contriving and compaſſing the <hi>King</hi>'s Death: you have juſtification to plead, if it be Treaſon, it is not juſtifiable: if it be juſtifiable, it is not Treaſon?</p>
+               </sp>
+               <sp>
+                  <speaker>Mart.</speaker>
+                  <p>Then my Lord I plead not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How will you be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Mart.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good deliverance.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>You may give any evidence, but in a caſe of this na<g ref="char:EOLhyphen"/>ture you can give no evidence to —</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Gilbert Millington,</hi> Hold up thy hand, what ſayeſt thou, art thou guilty of this horrid Act of Treaſon, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>I humbly crave you Lordſhips pardon to hear me a few words.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>Sir, we muſt do in this as in all other Caſes. Either you muſt plead guilty, or not; if you plead not guilty you ſhall is heard hereafter: but you muſt plead guilty or not guilty;</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>There is ſomething in that Indictment that I am not guilty of.</p>
+               </sp>
+               <pb n="5" facs="tcp:119328:4"/>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>Then plead not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>I am not guilty my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Rob.</speaker>
+                  <p>
+                     <hi>Titchborn,</hi> Hold up thy hand: Art thou guilty of this hor<g ref="char:EOLhyphen"/>rid act of Treaſon, or art thou not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Titch.</speaker>
+                  <p>My Lord, I have been for ſome ſpace kept cloſe pri<g ref="char:EOLhyphen"/>ſoner, and I am altogether unable in the Law to ſpeak for my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge,</speaker>
+                  <p>You muſt plead either guilty or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Titch.</speaker>
+                  <p>ſpare me one word if the Trial be matter of Law, give leave for Counſel to plead for me; If I ſhould plead my own Caſe in Law, I might be over-powred, ſince there are many perſons of great eminencie and honour will plead againſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>Titch.</speaker>
+                  <p>I will not trouble you long, if this be the Caſe in matter and form as I am here indicted, I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How will you be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Titch.</speaker>
+                  <p>By God and the Countrey,</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery,</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Owen Roe,</hi> Hold up thy hand, what ſaiſt thou, Art thou guilty of this horrid act of high Treaſon, or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>O. Roe.</speaker>
+                  <p>My Lord I will reſt upon the judgement of the Court in matter and form, as I ſtand indicted I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Roe.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+                  <p>
+                     <hi>Robert Lilburn</hi> Hold up thy hand, art thou guilty of this hor<g ref="char:EOLhyphen"/>rid act of high Treaſon whereof thou ſtands indicted, or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Lilb.</speaker>
+                  <p>I have been cloſe Priſoner my Lord this twenty dayes, and none allowed to come to me, and I am told I ought to have Counſel before I plead.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudge,</speaker>
+                  <p>You are misinformed, you cannot have it; you muſt plead either guilty or not guilty; for if this be your argument, and this anſwer be returned, Iudgement will be given againſt you, for the rule is ſet before us.</p>
+               </sp>
+               <sp>
+                  <speaker>Lil.</speaker>
+                  <p>My Lord if you over-rule me, I cannot help it.</p>
+               </sp>
+               <pb n="6" facs="tcp:119328:5"/>
+               <sp>
+                  <speaker>Iudge,</speaker>
+                  <p>Sir pray let not ſuch words fall from you.</p>
+               </sp>
+               <sp>
+                  <speaker>Lil.</speaker>
+                  <p>My Lord I muſt ſay in matter and forme, as I ſtand here indicted I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Lilb,</speaker>
+                  <p>By God and the Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Call <hi>Adrian Scroop, Augustine Garland, Gregory Clement, Peter Temple, Iohn Iones, Iames Temple, Iohn Cook, Iohn Carew.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Adrian Scroop,</hi> Hold up thy hand,</p>
+                  <p>How ſayeſt thou, art thou guilty of this horrid act of high Treaſon or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Ad. Scroop.</speaker>
+                  <p>My Lord, I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Ad. Scroop.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Iohn Carew,</speaker>
+                  <p>Hold up thy hand, how ſayeſt thou, art thou guilty of this horrid act of high Treaſon, or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Carew.</speaker>
+                  <p>My Lord, there is matter in the Indictment as I humbly conceive, that is not under the reach of any inferiour Court of Iudicature.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>That is not to the matter, you muſt plead guilty or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Carew.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Carew</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Iohn Iones</hi> hold up thy hand, what ſayeſt thou art thou guilty of this horid Treaſon, whereof thou ſtandeſt indi<g ref="char:EOLhyphen"/>cted or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>John Jones</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>John Jones</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend the a good delivery.</p>
+                  <p>
+                     <hi>Thomas Scot</hi> hold up thy hand, art thou Guilty of this ho<g ref="char:EOLhyphen"/>rid Act of high Treaſon, or art thou not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Scot.</speaker>
+                  <p>My Lord I would offer a few words,</p>
+               </sp>
+               <pb n="7" facs="tcp:119328:5"/>
+               <sp>
+                  <speaker>Iudge</speaker>
+                  <p>The Law give this liberty as your birth right, either to plead Guilty or not Guilty one of them you muſt do.</p>
+               </sp>
+               <sp>
+                  <speaker>Scot.</speaker>
+                  <p>The law I hope my Lord in ſome time or other, doth give men leave to plead for themſelves.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge</speaker>
+                  <p>In what would you plead, you cannot (I have told you) juſtifie it, if it be Treaſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Scot.</speaker>
+                  <p>My Lord I cannot call it treaſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Are you Guilty or not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Scot.</speaker>
+                  <p>Not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Scot.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Gregory Clement</hi> hold up thy hand, what ſayeſt thou art thou Guilty of the horrid treaſon whereof thou ſtandeſt in<g ref="char:EOLhyphen"/>dicted or not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clem.</speaker>
+                  <p>Not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Clem.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend the a ſafe delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>John Cooke</hi> hold up thy hand, what ſayeſt thou art thou Guilty of the horrid treaſon whereof thou ſtandeſt indicted or not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cook.</speaker>
+                  <p>My Lord I beg to have counſel to plead for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>You moſt anſwer are you Guilty or not.</p>
+               </sp>
+               <sp>
+                  <speaker>Cook.</speaker>
+                  <p>My Lord not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Cook.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend you a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Col. <hi>Edmund Harvy, John Downes, Henry Smith, Vincent Potter, and Auguſtine Garland</hi> to the Bar.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler,</speaker>
+                  <p>
+                     <hi>Edmond Harvy</hi> hold up thy hand, what ſayeſt thou art thou guilty of this horrid Act of high Treaſon or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I am not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <pb n="8" facs="tcp:119328:6"/>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend the a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Henry Smith</hi> hold up thy hand, what ſayeſt thou art thou guilty of this horrid Act of high Treaſon or not guilty</p>
+               </sp>
+               <sp>
+                  <speaker>Smith.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Smith.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend the a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Iohn Downs</hi> hold up thy hand, what ſayeſt thou, art thou guilty of this horrid treaſon whereof ſtands indicted, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Downes,</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Downes.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+                  <p>
+                     <hi>Vincent Potter</hi> hold up thy hand, what ſayeſt thou, art thou guilty of this horrid act of high Treaſon whereof thou ſtandeſt indicted, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Pot.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Pot.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Auguſtine Garland</hi> hold up thy hand, what ſayeſt thou, art thou guilty of this horrid act of treaſon whereof thou ſtandeſt indicted, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Garl.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk,</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Garl.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+                  <p>Set to the Bar <hi>George Fleetwood, Iames Temple, Hugh Pe<g ref="char:EOLhyphen"/>ters, Simon Meyn, Francis Hacker, Daniel Axtell.</hi>
+                  </p>
+                  <p>
+                     <hi>George Fleetwood</hi> what ſayeſt thou, art thou guilty of this horrid treaſon whereof thou ſtandeſt indicted, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Fleet.</speaker>
+                  <p>I came in (my Lord) upon his Majeſties Proclama<g ref="char:EOLhyphen"/>tion.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Art thou guilty or not guilty?</p>
+               </sp>
+               <pb n="9" facs="tcp:119328:6"/>
+               <sp>
+                  <speaker>Fleet.</speaker>
+                  <p>I confeſſe I am guilty, <stage>and withall he delivered a Petition into the Court.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Set him aſide.</p>
+                  <p>
+                     <hi>Simon Meyn</hi> hold up thy hand, what ſayeſt thou, art thou guilty of the horrid treaſon whereof thou ſtandeſt indicted or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Meyn.</speaker>
+                  <p>Not guilty, for I came in upon his Majeſties Pro<g ref="char:EOLhyphen"/>clamation.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Meyn.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Iames Temple,</hi> Hold up thy hand, what ſayeſt thou, art thou guilty of the horrid Treaſon whereof thou ſtandeſt indi<g ref="char:EOLhyphen"/>cted or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Iohn Temple.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Iohn Temple.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler. Pet. Temple,</speaker>
+                  <p>Hold up thy hand, what ſayeſt thou art thou guilty of the horrid Treaſon whereof thou ſtandſt indicted or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Pet. Temple.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Pet. Temple.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Thomas Wait,</hi> Hold up thy hand, what ſayeſt thou, art thou guilty of this horrid Act of high Treaſon, or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Wait.</speaker>
+                  <p>I humbly deſire of you my Lord that I may ſpeak a word or two.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>When you do plead, if you plead not guilty, you may ſpeak what you will,</p>
+               </sp>
+               <sp>
+                  <speaker>Tho. Wait.</speaker>
+                  <p>My Lord, one word. I am not willing to miſ<g ref="char:EOLhyphen"/>ſpend your time, for I know you have much buſineſſe for to doe, it will not become me to doe it.</p>
+               </sp>
+               <pb n="10" facs="tcp:119328:7"/>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>Well, but do not preface, let us hear what you will ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Tho. Wait.</speaker>
+                  <p>My caſe my Lord is different from other mens.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>What you have to ſay ſpeak afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Tho. Wait.</speaker>
+                  <p>My Lord, there was a Peer of this Nation that was indicted for killing a man.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>Sir, you muſt anſwer guiltie or not guiltie, for we doe not intend to anticipate you, what you have to ſay you may ſpeak afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>are you guilty or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>VVaite,</speaker>
+                  <p>I am not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Who will you be tryed by?</p>
+               </sp>
+               <sp>
+                  <speaker>VVaite.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend you a good deliverance.</p>
+                  <p>
+                     <hi>Hugh Peters,</hi> hold up thy hand, art thou Guilty of this horrid Act of high Treaſon of which thou ſtandeſt indicted, or art thou not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Peters.</speaker>
+                  <p>I cannot ſay I am guilty, my Lord I would not be guilty of the Murder for ten thouſand worlds.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How will you be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Peters,</speaker>
+                  <p>By the word of God. At this the Court ſeemed to ſmile.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Art thou guilty or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Pet.</speaker>
+                  <p>not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Pet.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend thee a good delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>
+                     <hi>Daniel Axtell</hi> hold up thy hand, what ſayeſt thou, art thou guilty of the horrid high Treaſon whereof thou ſtandeſt indicted or not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>My Lord, let me have the freedome of an Engliſhman, that which is my right by Law, I will not take up much of your time, the matter of the indictment runs upon the Kings death, therefore I deſire to be tryed by Oyer and Terminer, for it is a great point in Law, that no inferiour Court ought
+<pb n="11" facs="tcp:119328:7"/>to judge of things that were done by Act of Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Judg.</speaker>
+                  <p>If the matter be treaſon, it is not to be juſtified, if it be not treaſon, it is juſtifiable, as I ſaid ſeveral times before, &amp; as I laid it is the birth<g ref="char:EOLhyphen"/>right to plead guilty or not; there is no other plea but this.</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>Iudge <hi>Heath</hi> had counſel upon the ſame caſe, but if the Court overrule me, I cannot help it.</p>
+               </sp>
+               <sp>
+                  <speaker>Several of the Court,</speaker>
+                  <p>It was not ſuch a caſe as this.</p>
+               </sp>
+               <sp>
+                  <speaker>Council.</speaker>
+                  <p>My Lord, It may be this Gentleman doth not know the Law, which is, that he that ſtands mute in caſe of high Treaſon, proclaims him<g ref="char:EOLhyphen"/>ſelf guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Iudge,</speaker>
+                  <p>True, he that doth not put himſelf upon the Countrey is a mute in Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Art thou guilty or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How wilt thou be tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>I will be tryed by Twelve honeſt men.</p>
+               </sp>
+               <sp>
+                  <speaker>Officer.</speaker>
+                  <p>Sir you muſt ſay by God &amp; the country.</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>Nay, but God is not locally here to be tryed by.</p>
+               </sp>
+               <stage>He having taken ſome notes of the Indictment, it was taken from him with other papers, the notes being torn out his pa<g ref="char:EOLhyphen"/>per was returned him.</stage>
+               <sp>
+                  <speaker>Iudg.</speaker>
+                  <p>When your Indictment is read the ſecond time, you may take what notes you will, but not the firſt time,</p>
+               </sp>
+               <pb n="12" facs="tcp:119328:8"/>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>How will you be tryed.</p>
+               </sp>
+               <sp>
+                  <speaker>Axt.</speaker>
+                  <p>By God and the Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>God ſend you a good delivery.</p>
+               </sp>
+               <stage>So the Court adjourned for this day.</stage>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119328:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
